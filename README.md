@@ -2,7 +2,4 @@
 
 How to reach me [LinkedIn](https://www.linkedin.com/in/renan-de-melo-lourenço-963434200/)
 
-<!---
-RenanLourenco/RenanLourenco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?RenanLourenco=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
