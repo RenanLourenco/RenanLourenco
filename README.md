@@ -1,4 +1,4 @@
-- 👋 Hi,My name is @RenanLourenco, i'm starting my career as a web developer, looking for a internship around the globe..
+- 👋 Hi,My name is @RenanLourenco, i'm starting my career as a web developer
 
 How to reach me [LinkedIn](https://www.linkedin.com/in/renan-de-melo-lourenço-963434200/)
 
