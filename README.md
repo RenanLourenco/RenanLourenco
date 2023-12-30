@@ -4,11 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-My name is Renan, and I am a back-end developer. Currently, I have experience working with the JavaScript ecosystem (Node.js, Vue.js, Nest.js) using TypeScript as well. I develop APIs, automations, system integrations (CRM, ERP, and others), web applications, and deploy and monitor applications on AWS. I also work with proxies and perform unit and integration testing. I am currently deepening my knowledge in DevOps, software architecture (Clean Architecture, Domain-Driven Design), TDD (Test-Driven Development), and I am also studying Java and Go to expand my skill set. I'm interested in back-end development because I enjoy automating processes, integrating new systems, and building intelligent applications. I am always eager to learn new technologies. I have a great ability to adapt to new technologies, methodologies, and business rules and work well in a team. I stand out for my proactivity and self-learning. I entered the technology field in 2021, initially working in infrastructure and technical support. In August 2022, I had the opportunity to transition to software development, and I intend to continue in this field.
+My name is Renan, and I am a back-end developer.
+Currently, I have experience working with the JavaScript ecosystem (Node.js, Vue.js, Nest.js) using TypeScript as well, API development, automations, system integrations (CRM, ERP, and others), web applications, and deploy and monitor applications on AWS, also work with proxies and perform unit and integration testing, currently deepening my knowledge in DevOps, software architecture (Clean Architecture, Domain-Driven Design), TDD (Test-Driven Development), also studying Go to expand my skill set.
+
+Very interested in back-end development because I enjoy automating processes, integrating new systems, and building intelligent applications, always eager to learn new technologies.
+
+I have a great ability to adapt to new technologies, methodologies, and business rules and work well in a team. I stand out for my proactivity and self-learning. I entered the technology field in 2021, initially working in infrastructure and technical support. In August 2022, I had the opportunity to transition to software development, and I intend to continue in this field.
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [renanloub@protonmail.com](mailto:renanloub@protonmail.com)
-* 🧠  I'm learning Go, Java, DevOps (Terraform, CI/CD), DDD, TDD.
+* 🧠  I'm learning Go, DevOps (Terraform, CI/CD), DDD, TDD.
 
 ### Skills
 
